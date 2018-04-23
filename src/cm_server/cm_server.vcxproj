@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Emulator|Win32">
+      <Configuration>Emulator</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}</ProjectGuid>
+    <RootNamespace>cm_server</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Emulator|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Emulator|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>15.0.27428.2015</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Emulator|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\;.\include;$(ProjectDir)\..\NetworkManager\include;$(ProjectDir)\..\OSAL\include;$(ProjectDir)\..\common\include;$(ProjectDir)\..\DAL\include;$(ProjectDir)\..\devices\device_emulator\include;$(ProjectDir)\..\WiFiBearer\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;WINDOWS_VISTA;CM_SERVER;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Lib>
+      <AdditionalLibraryDirectories>..\devices\broadcom\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>Full</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>$(ProjectDir)\..\devices\device_emulator\include;.\include;$(ProjectDir)\..\OSAL\include;$(ProjectDir)\..\common\include;$(ProjectDir)\..\DAL\include;$(ProjectDir)\..\NetworkManager\include;$(ProjectDir)\..\WiFiBearer\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;CM_SERVER;_CRT_SECURE_NO_WARNINGS;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Lib>
+      <AdditionalDependencies>4G_CAPI_Lib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>..\devices\broadcom\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Emulator|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>.\include;$(ProjectDir)\..\OSAL\include;$(ProjectDir)\..\common\include;$(ProjectDir)\..\devices\broadcom\DAL\include;$(ProjectDir)\..\devices\broadcom\include;$(ProjectDir)\..\devices\broadcom\device_emulator\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;WINDOWS_VISTA;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader />
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(ProjectDir)\..\devices\broadcom\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\source\UCommonUtils.cpp" />
+    <ClCompile Include="..\common\source\ULog.cpp" />
+    <ClCompile Include="..\DAL\source\ThreeGParser.cpp" />
+    <ClCompile Include="..\DAL\source\Three_g_dal.cpp" />
+    <ClCompile Include="..\DAL\source\UAltairParser.cpp" />
+    <ClCompile Include="..\DAL\source\UBroadcomParser.cpp" />
+    <ClCompile Include="..\DAL\source\UBufferParser.cpp" />
+    <ClCompile Include="..\DAL\source\uconn_Altair_DAL.cpp" />
+    <ClCompile Include="..\DAL\source\uconn_ATHandler.cpp" />
+    <ClCompile Include="..\DAL\source\uconn_AT_DAL.cpp" />
+    <ClCompile Include="..\DAL\source\uconn_Broadcom_DAL.cpp" />
+    <ClCompile Include="..\DAL\source\uconn_Huawei_Dal.cpp" />
+    <ClCompile Include="..\DAL\source\UHuawei4GParser.cpp" />
+    <ClCompile Include="..\devices\device_emulator\source\UEmulateSerialPort.cpp" />
+    <ClCompile Include="..\devices\device_emulator\source\UEmulator.cpp" />
+    <ClCompile Include="..\devices\device_emulator\source\UThreeGSimulator.cpp" />
+    <ClCompile Include="..\NetworkManager\source\Ether_NM.cpp" />
+    <ClCompile Include="..\NetworkManager\source\LTE_NM.cpp" />
+    <ClCompile Include="..\NetworkManager\source\NetworkManager.cpp" />
+    <ClCompile Include="..\NetworkManager\source\ThreeG_NM.cpp" />
+    <ClCompile Include="..\NetworkManager\source\WiFi_NM.cpp" />
+    <ClCompile Include="..\OSAL\source\uconn_OSAL.cpp" />
+    <ClCompile Include="..\OSAL\source\USrPortCommUsage.cpp" />
+    <ClCompile Include="..\OSAL\source\uWlanHlpr.cpp" />
+    <ClCompile Include="..\OSAL\source\uWlanUtils.cpp" />
+    <ClCompile Include="source\BearerManager.cpp" />
+    <ClCompile Include="source\UCommonFunctions.cpp" />
+    <ClCompile Include="source\uconn_ConnectedState.cpp" />
+    <ClCompile Include="source\uconn_ConnectingState.cpp" />
+    <ClCompile Include="source\uconn_DisabledState.cpp" />
+    <ClCompile Include="source\uconn_DisconnectingState.cpp" />
+    <ClCompile Include="source\uconn_EnabledState.cpp" />
+    <ClCompile Include="source\uconn_IdleState.cpp" />
+    <ClCompile Include="source\uconn_SearchingState.cpp" />
+    <ClCompile Include="source\uconn_server.cpp" />
+    <ClCompile Include="source\uconn_ServerAPI.cpp" />
+    <ClCompile Include="source\uconn_StateMachine.cpp" />
+    <ClCompile Include="source\UStateMachine.cpp" />
+    <ClCompile Include="source\XMLParser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CMsocketservice\include\UClientProcess.h" />
+    <ClInclude Include="..\CMsocketservice\include\uconn_clientcommon.h" />
+    <ClInclude Include="..\common\include\UCommonUtils.h" />
+    <ClInclude Include="..\common\include\uconn_Config.h" />
+    <ClInclude Include="..\common\include\uconn_Event.h" />
+    <ClInclude Include="..\common\include\uconn_sockComm.h" />
+    <ClInclude Include="..\common\include\ULog.h" />
+    <ClInclude Include="..\common\include\UTypes.h" />
+    <ClInclude Include="..\DAL\include\ThreeGParser.h" />
+    <ClInclude Include="..\DAL\include\Three_g_dal.h" />
+    <ClInclude Include="..\DAL\include\UAltairParser.h" />
+    <ClInclude Include="..\DAL\include\UBroadcomParser.h" />
+    <ClInclude Include="..\DAL\include\UBufferParser.h" />
+    <ClInclude Include="..\DAL\include\uconn_Altair_DAL.h" />
+    <ClInclude Include="..\DAL\include\uconn_ATHandler.h" />
+    <ClInclude Include="..\DAL\include\uconn_AT_DAL.h" />
+    <ClInclude Include="..\DAL\include\uconn_Broadcom_DAL.h" />
+    <ClInclude Include="..\DAL\include\uconn_DAL.h" />
+    <ClInclude Include="..\DAL\include\UHuawei4GParser.h" />
+    <ClInclude Include="..\DAL\include\UHuaweiDal.h" />
+    <ClInclude Include="..\devices\broadcom\apr_capiDefs.h" />
+    <ClInclude Include="..\devices\broadcom\include\uconn_Altair_Stats.h" />
+    <ClInclude Include="..\devices\broadcom\include\uconn_Broadcom_Stats.h" />
+    <ClInclude Include="..\devices\device_emulator\include\UEmulateSerialPort.h" />
+    <ClInclude Include="..\devices\device_emulator\include\UEmulator.h" />
+    <ClInclude Include="..\NetworkManager\include\Ether_NM.h" />
+    <ClInclude Include="..\NetworkManager\include\LTE_NM.h" />
+    <ClInclude Include="..\NetworkManager\include\NetworkManager.h" />
+    <ClInclude Include="..\NetworkManager\include\ThreeG_NM.h" />
+    <ClInclude Include="..\NetworkManager\include\WiFi_NM.h" />
+    <ClInclude Include="..\OSAL\include\uconn_OSAL.h" />
+    <ClInclude Include="..\OSAL\include\uWlanHlpr.h" />
+    <ClInclude Include="..\OSAL\include\uWlanUtils.h" />
+    <ClInclude Include="..\WiFiBearer\include\UWlan.h" />
+    <ClInclude Include="include\BearerManager.h" />
+    <ClInclude Include="include\targetver.h" />
+    <ClInclude Include="include\uconn_ConnectedEvent.h" />
+    <ClInclude Include="include\uconn_ConnectedState.h" />
+    <ClInclude Include="include\uconn_ConnectingEvent.h" />
+    <ClInclude Include="include\uconn_ConnectingState.h" />
+    <ClInclude Include="include\uconn_DisabledState.h" />
+    <ClInclude Include="include\uconn_DisconnectingEvent.h" />
+    <ClInclude Include="include\uconn_DisconnectingState.h" />
+    <ClInclude Include="include\uconn_EnabledState.h" />
+    <ClInclude Include="include\uconn_IdleEvent.h" />
+    <ClInclude Include="include\uconn_IdleState.h" />
+    <ClInclude Include="include\uconn_SearchEvent.h" />
+    <ClInclude Include="include\uconn_SearchingState.h" />
+    <ClInclude Include="include\uconn_server.h" />
+    <ClInclude Include="include\uconn_ServerAPI.h" />
+    <ClInclude Include="include\uconn_StateMachine.h" />
+    <ClInclude Include="include\UState.h" />
+    <ClInclude Include="include\UStateMachine.h" />
+    <ClInclude Include="include\XMLParser.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

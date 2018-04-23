@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  uconn_SAPIwrapper.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_client\source\uconn_sapiwrapper.cpp(870): warning C4101: 'handle_pthread': unreferenced local variable
+  Uconn_cliMain.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_client\source\uconn_climain.cpp(76): error C2065: 'UCONN_CMD_BEARER_VPN_LIST_CLIENTS': undeclared identifier
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_client\source\uconn_climain.cpp(77): error C2065: 'UCONN_CMD_BEARER_VPN_LIST_PROFILES': undeclared identifier
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_client\source\uconn_climain.cpp(78): error C2065: 'UCONN_CMD_BEARER_VPN_START': undeclared identifier
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_client\source\uconn_climain.cpp(79): error C2065: 'UCONN_CMD_BEARER_VPN_STOP': undeclared identifier
+  Generating Code...

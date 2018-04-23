@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  cm_server.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cmsocketservice\source\cm_server.cpp(146): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cmsocketservice\source\cm_server.cpp(146): warning C4309: 'initializing': truncation of constant value
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cmsocketservice\source\cm_server.cpp(578): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cmsocketservice\source\cm_server.cpp(578): warning C4309: 'initializing': truncation of constant value
+  UClientProcess.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  Generating code
+  All 1407 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4049: locally defined symbol _strstr imported
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4049: locally defined symbol _toupper imported
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4049: locally defined symbol _free imported
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4049: locally defined symbol _printf imported
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4049: locally defined symbol _exit imported
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4049: locally defined symbol _malloc imported
+ModeSwitch.lib(modeSwitch.obj) : warning LNK4099: PDB 'vc90.pdb' was not found with 'ModeSwitch.lib(modeSwitch.obj)' or at 'C:\Users\span111\Desktop\Uconnect\src\UCM_4.2_26Jul2012\cm_server\Release\vc90.pdb'; linking object as if no debug info
+  CMsocketservice.vcxproj -> C:\Users\span111\Desktop\Uconnect\src\UCM_4.2_26Jul2012\cm_server\Release\CMsocketservice.exe
+          1 file(s) copied.
+          1 file(s) copied.

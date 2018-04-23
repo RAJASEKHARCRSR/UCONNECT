@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{882217ED-2599-4B87-9D71-58B56ECD686B}"
+	ProjectSection(SolutionItems) = preProject
+		cm_server.vsd = cm_server.vsd
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cm_server", "cm_server.vcxproj", "{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CMsocketservice", "..\CMsocketservice\CMsocketservice.vcxproj", "{4E39FDD4-876A-47AD-86C9-5CE565336E04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModeSwitch", "..\ModeSwitch\ModeSwitch.vcxproj", "{CA406AEB-13F9-4F10-A763-F30E5D0E915D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Emulator|Win32 = Emulator|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}.Debug|Win32.Build.0 = Debug|Win32
+		{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}.Emulator|Win32.ActiveCfg = Emulator|Win32
+		{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}.Emulator|Win32.Build.0 = Emulator|Win32
+		{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}.Release|Win32.ActiveCfg = Release|Win32
+		{AE45C140-C014-4A1E-B6A0-F7A99A08ADF1}.Release|Win32.Build.0 = Release|Win32
+		{4E39FDD4-876A-47AD-86C9-5CE565336E04}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E39FDD4-876A-47AD-86C9-5CE565336E04}.Debug|Win32.Build.0 = Debug|Win32
+		{4E39FDD4-876A-47AD-86C9-5CE565336E04}.Emulator|Win32.ActiveCfg = Release|Win32
+		{4E39FDD4-876A-47AD-86C9-5CE565336E04}.Emulator|Win32.Build.0 = Release|Win32
+		{4E39FDD4-876A-47AD-86C9-5CE565336E04}.Release|Win32.ActiveCfg = Release|Win32
+		{4E39FDD4-876A-47AD-86C9-5CE565336E04}.Release|Win32.Build.0 = Release|Win32
+		{CA406AEB-13F9-4F10-A763-F30E5D0E915D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA406AEB-13F9-4F10-A763-F30E5D0E915D}.Emulator|Win32.ActiveCfg = Release|Win32
+		{CA406AEB-13F9-4F10-A763-F30E5D0E915D}.Emulator|Win32.Build.0 = Release|Win32
+		{CA406AEB-13F9-4F10-A763-F30E5D0E915D}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B5A594-9901-44BF-961F-18A08F15C619}
+	EndGlobalSection
+EndGlobal

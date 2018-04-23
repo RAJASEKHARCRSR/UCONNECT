@@ -1,0 +1,192 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: The property "WindowsTargetPlatformVersion" is being set to a value for the first time, but it was already consumed at "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)".
+  UCommonUtils.cpp
+  ULog.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  ThreeGParser.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  Three_g_dal.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UAltairParser.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UBroadcomParser.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UBufferParser.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_Altair_DAL.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_ATHandler.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_AT_DAL.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_Broadcom_DAL.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_Huawei_Dal.cpp
+  UHuawei4GParser.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UEmulateSerialPort.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UEmulator.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UThreeGSimulator.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  Ether_NM.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  LTE_NM.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  NetworkManager.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  ThreeG_NM.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  Compiling...
+  WiFi_NM.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_OSAL.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\osal\source\uconn_osal.cpp(2153): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'HDEVINFO'
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\osal\source\uconn_osal.cpp(2248): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'HDEVINFO'
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\osal\source\uconn_osal.cpp(3028): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'LPVOID'
+  USrPortCommUsage.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uWlanHlpr.cpp
+  uWlanUtils.cpp
+  BearerManager.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(54): warning C4091: 'typedef ': ignored on left of 'EResponseType' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(93): warning C4091: 'typedef ': ignored on left of 'ELTETechParam' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(97): warning C4091: 'typedef ': ignored on left of 'ETHREEGTechParam' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(101): warning C4091: 'typedef ': ignored on left of 'EWIFITechParam' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(105): warning C4091: 'typedef ': ignored on left of 'EETHERTechParam' when no variable is declared
+  UCommonFunctions.cpp
+  uconn_ConnectedState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_ConnectingState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_DisabledState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_DisconnectingState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_EnabledState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_IdleState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_SearchingState.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_server.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  uconn_ServerAPI.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(54): warning C4091: 'typedef ': ignored on left of 'EResponseType' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(93): warning C4091: 'typedef ': ignored on left of 'ELTETechParam' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(97): warning C4091: 'typedef ': ignored on left of 'ETHREEGTechParam' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(101): warning C4091: 'typedef ': ignored on left of 'EWIFITechParam' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\include\bearermanager.h(105): warning C4091: 'typedef ': ignored on left of 'EETHERTechParam' when no variable is declared
+  uconn_StateMachine.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  UStateMachine.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+  XMLParser.cpp
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(587): warning C4091: 'typedef ': ignored on left of 'Error_values' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(593): warning C4091: 'typedef ': ignored on left of 'ENetworkEnableStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(599): warning C4091: 'typedef ': ignored on left of 'ENetworkConnectionStatus' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\common\include\uconn_config.h(605): warning C4091: 'typedef ': ignored on left of 'ERasConnectionErrors' when no variable is declared
+c:\users\span111\desktop\uconnect\src\ucm_4.2_26jul2012\cm_server\source\xmlparser.cpp(62): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  cm_server.vcxproj -> C:\Users\span111\Desktop\Uconnect\src\UCM_4.2_26Jul2012\cm_server\Release\cm_server.lib

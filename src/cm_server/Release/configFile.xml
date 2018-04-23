@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConnectOneConfig>
+<CommonCfg>
+<enable_Tech>0,1;1,1;2,1</enable_Tech>
+<Tech_Priority>1;2;0</Tech_Priority>
+<BM_Mode>Auto</BM_Mode>
+</CommonCfg>
+<LTE_Cfg>
+<param name="PLMNselectmode">
+<value>Auto</value>
+</param>
+<param name="ENABLE4G">
+<value>ON</value>
+</param>
+<param name="AttachRAT">
+<value>0</value>
+</param>
+<param name="DisableRATs">
+<value>0</value>
+</param>
+<param name="LogLevel">
+<value>Info</value>
+</param>
+<param name="TestMode">
+<value>ENABLE</value>
+</param>
+<param name="SMSWriteUicc">
+<value>1</value>
+</param>
+<param name="SMSFormat">
+<value>1</value>
+</param>
+<param name="SMSOverIMS">
+<value>0</value>
+</param>
+<param name="T1_Timer">
+<value>3</value>
+</param>
+<param name="T2_Timer">
+<value>16</value>
+</param>
+<param name="TF_Timer">
+<value>30</value>
+</param>
+<param name="LogtoFile">
+<value>1</value>
+</param>
+<param name="LogFile">
+<value>C:\CMSocketService\log.txt</value>
+</param>
+<param name="VidPidName">
+<value>USB\VID_12D1&PID_1506</value>
+<value>USB\Vid_0a5c&Pid_0510&Rev_0100&Mi_03</value>
+<value>USB\VID_216F&PID_0041&REV_0001&MI_02</value>
+</param>
+<param name="ComPortHWId">
+<value>USB\VID_216F&PID_0041&REV_0001&MI_02</value>
+</param>
+<param name="PDPType">
+<value>IPv4v6</value>
+</param>
+<param name="EmulatorMode">
+<value>0</value>
+</param>
+<param name="DalMode">
+<value>2</value>
+</param>
+<param name="APNName">
+<value></value>
+</param>
+<param name="EARCFN">
+<value>-1</value>
+</param>
+<param name="InactivityTimer">
+<value>200</value>
+</param>
+<param name="APNNameIMS">
+<value></value>
+</param>
+</LTE_Cfg>
+<3G_Cfg>
+<param name="VidPidName">
+<value>USB\VID_12D1&PID_1001&REV_0000&MI_02</value>
+<value>USB\VID_12D1&PID_140B&REV_0000&MI_02</value>
+<value>USB\VID_2001&PID_7D00&REV_0200&MI_01</value>
+</param>
+<param name="RASProfile">
+<value>FET</value> 
+</param>
+<param name="UserName">
+<value></value>
+</param>
+<param name="PassWord">
+<value></value>
+</param>
+<param name="PhoneNumber">
+<value>*99#</value>
+</param>
+<param name="3GAPNName">
+<value>internet</value>
+</param>
+<param name="USSDDecodingMode">
+<value>0</value>
+</param>
+</3G_Cfg>
+<WiFi_Cfg>
+</WiFi_Cfg>
+<Ether_Cfg>
+</Ether_Cfg>
+</ConnectOneConfig>

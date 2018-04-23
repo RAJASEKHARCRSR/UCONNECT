@@ -1,0 +1,5 @@
+PLMNselectmode:Manual
+ENABLE4G:ON
+AttachRAT:0
+DisableRATs:0
+LogLevel:Debug

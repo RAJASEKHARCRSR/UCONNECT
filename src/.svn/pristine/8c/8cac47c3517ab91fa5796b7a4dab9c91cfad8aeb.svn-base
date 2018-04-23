@@ -1,0 +1,91 @@
+QLabel#upload_rate,QLabel#download_rate{
+color: rgb(234, 126, 20);
+}
+QLabel{
+color: rgb(234, 126, 20);
+}
+QLabel#NavigationBar,QLabel#messageBar{
+background-color: #121212;
+}
+
+QLabel#net_bg,QLabel#stats_bg,QLabel#conf_bg,QLabel#gen_bg{
+background-color: #f4f4f4;
+}
+QGroupBox#configBox,QGroupBox#logBox,QGroupBox#logNameBox,QGroupBox#signalBox,QGroupBox#SMSgroupBox,QGroupBox#TimergroupBox,QGroupBox#refreshBox,QGroupBox#modemBox{
+color: #f8971d;
+}
+QGroupBox{
+color: #f8971d;
+}
+
+QToolBox{
+color: #f8971d;
+}
+
+QRadioButton{
+color: #f8971d;
+}
+
+QToolButton#connectButton{
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+QPushButton#GetModStats{
+background-color: #f8971d;
+\nborder-top-left-radius: 8px;
+\nborder-top-right-radius: 8px;
+\nborder-bottom-left-radius: 8px;
+\nborder-bottom-right-radius: 8px;
+color:#121212;
+font:bold;
+}
+
+QPushButton{
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+}
+
+QPushButton#minconnectButton{
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;
+background-image:url(:/connect)
+}
+
+
+QTabWidget::pane { /* The tab widget frame */
+border-top: 2px solid #eb7012;
+background-color: #121212;
+color:#eb7012;
+}
+QTabWidget::tab-bar {
+left: 18px; /* move to the right by 5px */
+background: #1c1c1c;
+background-color: #121212;
+}
+/* Style the tab using the tab sub-control. Note that it reads QTabBar _not_ QTabWidget */
+QTabBar::tab {
+background-color: #121212;
+color:#eb7012;
+border-top-left-radius: 11px;
+border-top-right-radius: 11px;
+min-width: 0px;
+padding: 4px;
+}
+QTabBar::tab:selected{
+color:#121212;
+font: bold;
+background:  #f4f4f4;
+border: 1px solid #f4f4f4;
+min-width: 50px;
+}
+
+
+
+

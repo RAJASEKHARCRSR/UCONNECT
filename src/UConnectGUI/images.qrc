@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/configure-icon.png</file>
+        <file>images/connect-button.png</file>
+        <file>images/download-icon.png</file>
+        <file>images/network-icon.png</file>
+        <file>images/search-icon.png</file>
+        <file>images/settings-icon.png</file>
+        <file>images/sig0.png</file>
+        <file>images/sig1.png</file>
+        <file>images/sig2.png</file>
+        <file>images/sig3.png</file>
+        <file>images/sig4.png</file>
+        <file>images/statistics-icon.png</file>
+        <file>images/uconnect-dropdown.jpg</file>
+        <file>images/upload-icon.png</file>
+        <file>images/VAS-icon.png</file>
+        <file>images/wi-fi-icon.png</file>
+        <file>images/broadcom.png</file>
+        <file>images/BRCM_logo_Tray.png</file>
+        <file>images/CP Footer_v2.bmp</file>
+        <file>images/pulse_32x32.ico</file>
+        <file>images/Header.png</file>
+        <file>images/Left Border.bmp</file>
+        <file>images/CP Footer_v2.bmp</file>
+        <file>images/Left Border.bmp</file>
+        <file>images/pulse.png</file>
+        <file>images/uconnect-logo.png</file>
+        <file>images/systrayIcon.png</file>
+        <file>images/configure-icon-selected.png</file>
+        <file>images/network-icon-selected.png</file>
+        <file>images/search-icon.png</file>
+        <file>images/statistics-icon-selected.png</file>
+        <file>images/configure-icon-unselected.png</file>
+        <file>images/network-icon-unselected.png</file>
+        <file>images/statistics-icon-unselected.png</file>
+        <file>images/IMS-icon.png</file>
+        <file>images/wi-fi-icon.png</file>
+        <file>images/altair.ico</file>
+        <file>images/altair.png</file>
+        <file>images/sig0.png</file>
+        <file>images/sig1.png</file>
+        <file>images/sig2.png</file>
+        <file>images/sig3.png</file>
+        <file>images/sig4.png</file>
+        <file>images/info-icon-selected.png</file>
+        <file>images/info-icon-unselected.png</file>
+        <file>images/altair-logo.png</file>
+        <file>images/connection-manager.png</file>
+        <file>images/header-bar.jpg</file>
+        <file>images/info-bg.jpg</file>
+        <file>images/footer-bg.jpg</file>
+        <file>images/help.png</file>
+        <file>images/detailed-view.png</file>
+        <file>images/info-icon.png</file>
+        <file>images/line-separator.png</file>
+        <file>images/upload-rate.png</file>
+        <file>images/download-rate.png</file>
+        <file>images/altair-connected-btn.png</file>
+        <file>images/altair-connect-btn.png</file>
+        <file>images/diconnect-btn.png</file>
+        <file>images/signal0.png</file>
+        <file>images/signal1.png</file>
+        <file>images/signal2.png</file>
+        <file>images/signal3.png</file>
+        <file>images/signal4.png</file>
+        <file>images/signal5.png</file>
+        <file>images/min-view-icon.png</file>
+        <file>images/help-icon.png</file>
+    </qresource>
+</RCC>

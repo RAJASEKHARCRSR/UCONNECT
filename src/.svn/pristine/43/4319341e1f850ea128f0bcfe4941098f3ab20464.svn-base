@@ -1,0 +1,210 @@
+INFO: About to create DAL_Object 
+Fri Dec 23 18:28:32 2011
+
+ERROR: Disabled State Entry 
+Fri Dec 23 18:28:32 2011
+
+DEBUG: Dal Init called sucessfuly
+Fri Dec 23 18:28:33 2011
+
+ERROR: Disabled State Handle - 95
+Fri Dec 23 18:28:33 2011
+
+ERROR: Disabled State Exit 
+Fri Dec 23 18:28:33 2011
+
+ERROR: ENABLED State Entry 
+Fri Dec 23 18:28:33 2011
+
+ERROR: ENABLED State Handle -90
+Fri Dec 23 18:28:33 2011
+
+INFO: Power up response 
+Fri Dec 23 18:28:33 2011
+
+ERROR: ENABLED State Handle -36
+Fri Dec 23 18:28:33 2011
+
+ERROR: IDLE State Entry 
+Fri Dec 23 18:28:33 2011
+
+ERROR: IDLE State Handle 32 
+Fri Dec 23 18:28:46 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:28:46 2011
+
+ERROR: IDLE State Handle 32 
+Fri Dec 23 18:28:46 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:28:46 2011
+
+ERROR: IDLE State Handle 32 
+Fri Dec 23 18:28:46 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:28:46 2011
+
+INFO: CONNECT Command received 
+Fri Dec 23 18:28:49 2011
+
+INFO: PLMN Index = 0 
+ Num of PLMNs = 0
+Fri Dec 23 18:28:49 2011
+
+ERROR: IDLE State Handle 5 
+Fri Dec 23 18:28:49 2011
+
+ERROR: IDLE State Exit 
+Fri Dec 23 18:28:49 2011
+
+ERROR: CONNECTING State Entry 
+Fri Dec 23 18:28:49 2011
+
+ERROR: Waiting for regstatus event entry 
+Fri Dec 23 18:28:49 2011
+
+ERROR: wating for regstatus evt handle 97   16
+Fri Dec 23 18:28:49 2011
+
+ERROR: CONNECTING State Handle 97
+Fri Dec 23 18:28:49 2011
+
+ERROR: ENABLED State Handle -97
+Fri Dec 23 18:28:49 2011
+
+INFO: Hurray 
+Fri Dec 23 18:28:49 2011
+
+ERROR: CONNECTED State entry
+Fri Dec 23 18:28:49 2011
+
+ERROR: CONNECTED State Handle  13
+Fri Dec 23 18:28:49 2011
+
+ERROR: ENABLED State Handle -13
+Fri Dec 23 18:28:49 2011
+
+INFO: Command not Valid 
+Fri Dec 23 18:28:49 2011
+
+ERROR: CONNECTED State Handle  8
+Fri Dec 23 18:28:55 2011
+
+ERROR: CONNECTED State Exit 
+Fri Dec 23 18:28:55 2011
+
+ERROR: DISCONNECTING State Entry 
+Fri Dec 23 18:28:55 2011
+
+ERROR: DISCONNECTING Handle  28
+Fri Dec 23 18:28:55 2011
+
+DEBUG: NET DETACH Confirmed by LTE Stack...
+Fri Dec 23 18:28:55 2011
+
+ERROR: DISCONNECTING State Exit 
+Fri Dec 23 18:28:55 2011
+
+ERROR: IDLE State Entry 
+Fri Dec 23 18:28:55 2011
+
+INFO: CONNECT Command received 
+Fri Dec 23 18:28:57 2011
+
+INFO: PLMN Index = 0 
+ Num of PLMNs = 0
+Fri Dec 23 18:28:57 2011
+
+ERROR: IDLE State Handle 5 
+Fri Dec 23 18:28:57 2011
+
+ERROR: IDLE State Exit 
+Fri Dec 23 18:28:57 2011
+
+ERROR: CONNECTING State Entry 
+Fri Dec 23 18:28:57 2011
+
+ERROR: Waiting for regstatus event entry 
+Fri Dec 23 18:28:57 2011
+
+ERROR: wating for regstatus evt handle 97   16
+Fri Dec 23 18:28:58 2011
+
+ERROR: CONNECTING State Handle 97
+Fri Dec 23 18:28:58 2011
+
+ERROR: ENABLED State Handle -97
+Fri Dec 23 18:28:58 2011
+
+INFO: Hurray 
+Fri Dec 23 18:28:58 2011
+
+ERROR: wating for regstatus evt handle 13   3664
+Fri Dec 23 18:28:59 2011
+
+ERROR: CONNECTING State Handle 13
+Fri Dec 23 18:28:59 2011
+
+ERROR: ENABLED State Handle -13
+Fri Dec 23 18:28:59 2011
+
+INFO: Command not Valid 
+Fri Dec 23 18:28:59 2011
+
+ERROR: wating for regstatus evt handle 32   16
+Fri Dec 23 18:29:32 2011
+
+ERROR: CONNECTING State Handle 32
+Fri Dec 23 18:29:32 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:29:32 2011
+
+ERROR: wating for regstatus evt handle 32   16
+Fri Dec 23 18:29:32 2011
+
+ERROR: CONNECTING State Handle 32
+Fri Dec 23 18:29:32 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:29:32 2011
+
+ERROR: wating for regstatus evt handle 32   16
+Fri Dec 23 18:29:32 2011
+
+ERROR: CONNECTING State Handle 32
+Fri Dec 23 18:29:32 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:29:32 2011
+
+ERROR: wating for regstatus evt handle 99   20
+Fri Dec 23 18:30:57 2011
+
+ERROR: CONNECTING State Handle 99
+Fri Dec 23 18:30:57 2011
+
+ERROR: ENABLED State Handle -99
+Fri Dec 23 18:30:57 2011
+
+ERROR: wating for regstatus evt handle 32   16
+Fri Dec 23 18:36:10 2011
+
+ERROR: CONNECTING State Handle 32
+Fri Dec 23 18:36:10 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:36:10 2011
+
+ERROR: wating for regstatus evt handle 32   16
+Fri Dec 23 18:36:10 2011
+
+ERROR: CONNECTING State Handle 32
+Fri Dec 23 18:36:10 2011
+
+ERROR: ENABLED State Handle -32
+Fri Dec 23 18:36:10 2011
+
+ER
